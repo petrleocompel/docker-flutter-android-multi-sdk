@@ -1,4 +1,4 @@
-FROM cirrusci/flutter:2.8.0
+FROM cirrusci/flutter:2.10.2
 
 
 RUN yes | sdkmanager \
