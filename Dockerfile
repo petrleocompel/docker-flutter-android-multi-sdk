@@ -1,4 +1,4 @@
-FROM cirrusci/flutter:3.7.1
+FROM cirrusci/flutter:3.7.5
 
 
 RUN yes | sdkmanager \
