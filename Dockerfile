@@ -8,4 +8,4 @@ RUN yes | sdkmanager \
     "platforms;android-31" \
     "platforms;android-32" \
     "platforms;android-33" \
-    "build-tools;34.0.0"
+    "build-tools;33.0.2"
