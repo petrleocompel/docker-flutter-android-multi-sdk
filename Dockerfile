@@ -1,4 +1,4 @@
-FROM cirrusci/flutter:3.7.7
+FROM ghcr.io/cirruslabs/flutter:3.7.12
 
 
 RUN yes | sdkmanager \
@@ -8,4 +8,4 @@ RUN yes | sdkmanager \
     "platforms;android-31" \
     "platforms;android-32" \
     "platforms;android-33" \
-    "build-tools;30.0.3"
+    "build-tools;34.0.0"
