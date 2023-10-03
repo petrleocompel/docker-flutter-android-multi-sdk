@@ -1,4 +1,4 @@
-FROM ghcr.io/cirruslabs/flutter:3.7.12
+FROM ghcr.io/cirruslabs/flutter:3.13.6
 
 
 RUN yes | sdkmanager \
