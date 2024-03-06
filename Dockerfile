@@ -11,7 +11,6 @@ RUN yes | sdkmanager \
     "platforms;android-33" \
     "build-tools;30.0.3" \
     "build-tools;33.0.2" \
-    "patcher;v4" \
     "emulator" \
     "tools"
 
