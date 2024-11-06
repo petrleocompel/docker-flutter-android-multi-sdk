@@ -10,6 +10,7 @@ RUN yes | sdkmanager \
     "platforms;android-32" \
     "platforms;android-33" \
     "platforms;android-34" \
+    "platforms;android-35" \
     "build-tools;30.0.3" \
     "build-tools;33.0.2" \
     "build-tools;34.0.0" \
