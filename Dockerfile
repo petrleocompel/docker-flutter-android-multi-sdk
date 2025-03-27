@@ -14,6 +14,7 @@ RUN yes | sdkmanager \
     "build-tools;30.0.3" \
     "build-tools;33.0.2" \
     "build-tools;34.0.0" \
+    "ndk;27.0.12077973" \
     "emulator" \
     "tools"
 
